@@ -45,12 +45,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "2A740C64-AF65-4543-999F-2B58A8B95290"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "D8E0C514-2E3E-40FD-9ED9-9C63F664E36B"
+      "class": "bitmap",
+      "id": "408487D4-F8F2-49C2-8760-6F83E1042262"
     }
   ],
   "name": "MoodBoard",
