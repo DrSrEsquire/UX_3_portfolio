@@ -2,7 +2,7 @@
   "_class": "bitmap",
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "408487D4-F8F2-49C2-8760-6F83E1042262",
+  "do_objectID": "583183A9-C077-4795-A284-F4E6479A1015",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,14 +16,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 387,
-    "width": 581,
-    "x": 0,
-    "y": 89
+    "height": 259,
+    "width": 259,
+    "x": 364.6000310841785,
+    "y": 541.6000310841786
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/070829831a7604b76b2319f439178e3eba890ab7.png",
+    "_ref": "images/7cba56c6191e3c860c17b02fdc7e8ab3a8a405fb.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
@@ -33,11 +33,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "rooibos-tea",
+  "name": "download",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": -3,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

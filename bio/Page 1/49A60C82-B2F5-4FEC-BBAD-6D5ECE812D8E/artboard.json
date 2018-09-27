@@ -46,7 +46,39 @@
   "layers": [
     {
       "class": "bitmap",
-      "id": "408487D4-F8F2-49C2-8760-6F83E1042262"
+      "id": "C9259698-BCD1-40F2-AF44-4069C1BBE712"
+    },
+    {
+      "class": "bitmap",
+      "id": "6CB6F1DA-CA9E-43DB-A123-A251F09E318B"
+    },
+    {
+      "class": "bitmap",
+      "id": "D10C9382-040F-44C5-937A-55C4FAAF40E3"
+    },
+    {
+      "class": "bitmap",
+      "id": "7333F2AD-C7B4-4E52-9B96-4508A53117BC"
+    },
+    {
+      "class": "bitmap",
+      "id": "583183A9-C077-4795-A284-F4E6479A1015"
+    },
+    {
+      "class": "bitmap",
+      "id": "BE9F6CFD-6D5C-4C2D-85DD-BB9D44A46A75"
+    },
+    {
+      "class": "bitmap",
+      "id": "9747ABC6-A0D1-4F76-BDD3-5FD6A54E9A1D"
+    },
+    {
+      "class": "bitmap",
+      "id": "EA0123D1-EB19-4BA6-90BF-A4725B470188"
+    },
+    {
+      "class": "bitmap",
+      "id": "66FA8BC8-55B0-4B3D-8073-A3A066F8890A"
     }
   ],
   "name": "MoodBoard",
