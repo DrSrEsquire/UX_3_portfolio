@@ -1,7 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "B59481CD-8251-4328-B88A-E68A9F645D94",
+  "do_objectID": "BC5F3061-DDFA-48C2-A634-D5333D1D5111",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,7 +17,7 @@
     "height": 50,
     "width": 256,
     "x": 33,
-    "y": 462
+    "y": 526
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -26,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/deactivated",
+  "name": "button/clicked",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -42,6 +42,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "120FCCEE-ACF9-4128-900B-C5FD1E146094",
+  "symbolID": "FCF5E036-C8A3-45AF-9C3B-0EFA012BE30B",
   "verticalSpacing": 0
 }

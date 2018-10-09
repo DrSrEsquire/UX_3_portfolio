@@ -73,6 +73,18 @@
     {
       "class": "shapeGroup",
       "id": "FDA947E5-62A9-4E92-ACB2-BF1FB8A8282E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7015D688-2EFD-4E5C-B683-8F6DC8AA8C03"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CC27FB7F-B738-4FF7-AD07-E59E79F008D6"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C28EFE1D-9880-46DA-908B-7C2F2472B559"
     }
   ],
   "name": "Symbols",

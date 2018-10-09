@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -81,8 +81,64 @@
       "id": "A4DBB0FA-437E-45C6-AC09-B44C688F46C1"
     },
     {
+      "class": "shapeGroup",
+      "id": "5D909B55-1384-425D-845F-8099AF406AE9"
+    },
+    {
       "class": "symbolInstance",
       "id": "B59481CD-8251-4328-B88A-E68A9F645D94"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC5F3061-DDFA-48C2-A634-D5333D1D5111"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7F0421CF-BAFC-46D7-BE2A-01C67EBE7276"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "55B6ECF2-6DA4-4782-A194-692C713B29BF"
+    },
+    {
+      "class": "text",
+      "id": "93AC8D33-F589-441B-B903-770FD82AC2D9"
+    },
+    {
+      "class": "text",
+      "id": "802AD3A9-3A30-411A-8CA1-9D799B5CF081"
+    },
+    {
+      "class": "text",
+      "id": "03EF067A-A869-4AD3-AE0C-E10239E2FA65"
+    },
+    {
+      "class": "text",
+      "id": "63336A8F-6FBC-48BA-984D-E21E8F6C6802"
+    },
+    {
+      "class": "text",
+      "id": "733B2BFC-66CB-460F-A53D-B0361D59D6FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B83B8A2-2040-4601-81A7-E8DF9AD9D53D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4BA24F37-42EF-40BF-90C2-DA2B728E5B88"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "89B5854E-AA3B-4D7C-88AD-835D6A6AC9C2"
+    },
+    {
+      "class": "text",
+      "id": "6666EAAA-1B9B-48E7-9030-EE1E7CAEE131"
+    },
+    {
+      "class": "text",
+      "id": "41439CED-B38D-48CA-8651-2B8D9ED75971"
     }
   ],
   "name": "Letter",

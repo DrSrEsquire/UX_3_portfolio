@@ -1,7 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "B59481CD-8251-4328-B88A-E68A9F645D94",
+  "do_objectID": "89B5854E-AA3B-4D7C-88AD-835D6A6AC9C2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
-    "width": 256,
-    "x": 33,
-    "y": 462
+    "height": 40,
+    "width": 40,
+    "x": 483,
+    "y": 456
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -26,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/deactivated",
+  "name": "icon/work",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -42,6 +42,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "120FCCEE-ACF9-4128-900B-C5FD1E146094",
+  "symbolID": "5BC316BE-CF55-4C8A-AE6E-BCF7334F9CE5",
   "verticalSpacing": 0
 }

@@ -1,8 +1,7 @@
 {
-  "_class": "shapeGroup",
+  "_class": "group",
   "booleanOperation": -1,
-  "clippingMaskMode": 0,
-  "do_objectID": "6A5AEFB6-0438-4AB1-A352-ECDA6FFF00BF",
+  "do_objectID": "D916D43F-9D44-4C96-B57A-34AF638B0B75",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,27 +13,30 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 100,
-    "width": 100,
-    "x": 33,
-    "y": 256
+    "constrainProportions": false,
+    "height": 18,
+    "width": 18,
+    "x": 6.280276816608998,
+    "y": 0
   },
   "hasClickThrough": false,
-  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "66377AB0-F7A3-45C4-8B58-50CA1DA9B3E6"
+      "class": "shapeGroup",
+      "id": "87D53936-4415-4F2B-B803-FBD84D1ACC27"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F8D76038-806E-4CA3-BE1A-0111BD346EE9"
     }
   ],
-  "name": "Rectangle",
+  "name": "Group",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -42,22 +44,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
-      }
-    ],
     "endMarkerType": 0,
     "fills": [
       {
@@ -65,9 +51,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5411764705882351,
-          "green": 0.6980392156862745,
-          "red": 0.04313725490196074
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "fillType": 0,
         "isEnabled": true,
@@ -80,6 +66,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "windingRule": 1
+  }
 }

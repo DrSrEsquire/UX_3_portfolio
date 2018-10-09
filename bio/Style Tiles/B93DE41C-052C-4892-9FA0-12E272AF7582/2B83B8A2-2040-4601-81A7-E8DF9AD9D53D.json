@@ -1,7 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "B59481CD-8251-4328-B88A-E68A9F645D94",
+  "do_objectID": "2B83B8A2-2040-4601-81A7-E8DF9AD9D53D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,9 +14,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
-    "width": 256,
-    "x": 33,
+    "height": 32,
+    "width": 45,
+    "x": 328,
     "y": 462
   },
   "horizontalSpacing": 0,
@@ -26,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/deactivated",
+  "name": "icon/bio",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -42,6 +42,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "120FCCEE-ACF9-4128-900B-C5FD1E146094",
+  "symbolID": "578BA325-7C4C-4611-A0B4-A02FBB6A5754",
   "verticalSpacing": 0
 }

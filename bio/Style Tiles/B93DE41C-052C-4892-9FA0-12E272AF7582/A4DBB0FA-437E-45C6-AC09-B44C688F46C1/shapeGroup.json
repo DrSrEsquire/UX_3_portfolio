@@ -19,8 +19,8 @@
     "do_objectID": "CBC44AEA-C233-42E6-AB8B-0D106AAC3EDF",
     "height": 100,
     "width": 100,
-    "x": 396,
-    "y": 242
+    "x": 351,
+    "y": 256
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -50,12 +50,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 1
       }
@@ -68,9 +68,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.8,
+          "green": 0.3764705882352941,
+          "red": 0.4078431372549021
         },
         "fillType": 0,
         "isEnabled": true,

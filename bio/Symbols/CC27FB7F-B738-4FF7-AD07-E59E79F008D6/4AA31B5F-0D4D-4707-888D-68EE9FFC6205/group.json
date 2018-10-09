@@ -1,7 +1,7 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
-  "do_objectID": "B59481CD-8251-4328-B88A-E68A9F645D94",
+  "do_objectID": "4AA31B5F-0D4D-4707-888D-68EE9FFC6205",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,27 +13,34 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 50,
-    "width": 256,
-    "x": 33,
-    "y": 462
+    "constrainProportions": true,
+    "height": 32,
+    "width": 44,
+    "x": 0,
+    "y": 0
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "button/deactivated",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EF6797B9-F800-4A65-82D7-86495640BD97"
+    },
+    {
+      "class": "group",
+      "id": "225FBEAE-2711-4967-9FE5-31B9C7B85D9A"
+    }
   ],
+  "name": "noun_User Bio_1840406",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -41,7 +48,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "120FCCEE-ACF9-4128-900B-C5FD1E146094",
-  "verticalSpacing": 0
+  }
 }
