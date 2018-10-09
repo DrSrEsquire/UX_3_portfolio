@@ -1,0 +1,85 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "21B0F9BA-76B3-4CDB-B693-0CFE5F6C5CF2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2798,
+  "do_objectID": "3CC1C694-9CE1-4748-A2A4-F4CBACD13BA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "52C50A1C-3FEE-4C46-80AF-C6D2C5DDF4FF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0D733437-86F6-49A0-A203-4135D760A2E7",
+    "height": 50,
+    "width": 256,
+    "x": 100,
+    "y": 81
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D9992FC1-B1EE-4923-A247-652736A13FBF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "56AB3B82-60F1-4F61-9D04-62475A0C7B00"
+    },
+    {
+      "class": "text",
+      "id": "E83B7FB0-59FF-41AA-A2E4-838EE0F4C525"
+    }
+  ],
+  "name": "button/hover",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "81CFB2E6-CF2C-42AF-93FD-534960EC912E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4B24BF70-8E00-451C-9F04-33062EB76E45",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0E9B85BE-5221-461D-931A-3C8A8E2DEA18",
+    "guides": [
+    ]
+  }
+}
